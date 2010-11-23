@@ -3,7 +3,7 @@ Fairly Simple Simon
 
 Yet another Arduino implementation of the *Simon* game.
 
-Current version is the voice-enabled `Simon Sings`__.  
+Latest version is the sound-enabled *Simon Sings* (see video__).  
 
 It can be built with most Arduino starter kits.
 
